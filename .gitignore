@@ -1,0 +1,12 @@
+# 忽略所有 CSV 数据和提交文件
+*.csv
+
+# 忽略 Jupyter Notebook 的缓存文件
+.ipynb_checkpoints/
+
+# 忽略 Python 缓存
+__pycache__/
+
+# 忽略任何虚拟环境文件夹 (如果你有的话)
+venv/
+env/
